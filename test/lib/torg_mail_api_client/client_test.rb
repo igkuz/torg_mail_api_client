@@ -3,7 +3,7 @@ require 'test_helper'
 class ClientTest < TestCase
 
   def setup
-    standard_configuration
+    standart_configuration
   end
 
   def test_should_get_instance

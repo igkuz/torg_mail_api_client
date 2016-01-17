@@ -1,0 +1,52 @@
+{
+  "SellerOpinions": {
+    "ResultsTotal": 40,
+    "ResultsPerPage": 5,
+    "Page": 1,
+    "Listing": [
+      {
+        "Id": 1,
+        "Date": "1452071513",
+        "Text": "\u0417\u0430\u043a\u0430\u0437\u0430\u043b\u0430",
+        "Mark": 1,
+        "Usefull": 1,
+        "Useless": 0
+      },
+
+      {
+        "Id": 2,
+        "Date": "1451293795",
+        "Text": "\u0412 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+        "Mark": 1,
+        "Usefull": 7,
+        "Useless": 1
+      },
+
+      {
+        "Id": 3,
+        "Date": "1450456488",
+        "Text": "\u041b\u041e\u0425\u041e\u0422\u0420\u041e\u041d\r\n\r\n\u042f\u0432\u043b\u044f\u044f\u0441\u044c",
+        "Mark": 1,
+        "Usefull": 10,
+        "Useless": 0
+      },
+
+      {
+        "Id": 4,
+        "Date": "1449303582",
+        "Text": "26 \u043d\u043e\u044f\u0431\u0440\u044f",
+        "Mark": 1,
+        "Usefull": 15,
+        "Useless": 1
+      },
+      {
+        "Id": 5,
+        "Date": "1449152014",
+        "Text": "\u041f\u043e\u043b\u044c\u0437\u0443\u044e\u0441\u044c",
+        "Mark": 3,
+        "Usefull": 6,
+        "Useless": 1
+      }
+    ]
+  }
+}
